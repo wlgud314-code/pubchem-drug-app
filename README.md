@@ -2,6 +2,8 @@
 
 PubChem PUG REST API로 일상 약물 **Acetaminophen(타이레놀)** 의 특성 정보를 조회해 웹 화면에 보여주는 앱입니다.
 
+### ▶ [앱 실행하기](https://wlgud314-code.github.io/pubchem-drug-app/)
+
 ## 조회 정보
 - PubChem CID, 분자식, 분자량, IUPAC 이름
 - XLogP, 수소결합 공여체/수용체 수, SMILES
